@@ -1,0 +1,49 @@
+body{
+  background-color:black;
+  color:white;
+  font-family:'chalkboard';
+  font-size:16px; 
+  border:5px solid white;
+}
+
+
+header{
+  text-transform:uppercase;
+  font-family:'marker felt';
+  font-size:1.5rem;
+}
+
+h1{
+  color:hotpink;
+  text-transform:capitalize;
+  
+}
+nav{
+  font-weight:bold;
+  font-style:italic;
+}
+nav:hover{color:hotpink}
+footer{
+  color:#FF7E6B;
+}
+
+#style{
+  background-color:grey;
+ font-size:18px;
+ padding:10px;
+ border:4px dashed black;
+ border-radius:4px;
+}
+h1:hover{
+  color:gray;
+}
+ul:hover{
+  text-transform:uppercase;
+}
+a:hover{
+  color:hotpink;
+}
+a{color:white;}
+a:active{
+  background-color:grey;
+}
